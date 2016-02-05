@@ -1,9 +1,16 @@
+// Copyright 2015 github.com/uhbiv/goalgo
 /*
-	Standard implementation of the MergeSort divide-and-conquer algo
+	Algorithm: Merge Sort
+	Topics: Divide and Conquer, Sorting
 
+	Cost analysis
+	branch	|merge
+	N	N
+
+	Also See:
 */
-package "github.com/uhbiv/goalgo"
+package goalgo
 
 /*
-	TODO: implementation 
+	TODO: implementation
 */
